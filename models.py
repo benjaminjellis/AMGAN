@@ -1,6 +1,5 @@
 """Discriminator and Generator Models"""
 
-import torch
 import torch.nn as nn
 
 
